@@ -1,0 +1,3 @@
+[submodule "proje/hector_nist_arenas_gazebo"]
+	path = proje/hector_nist_arenas_gazebo
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_nist_arenas_gazebo.git
